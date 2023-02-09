@@ -42,6 +42,8 @@ public class TridiagonalSystems {
                 constantVector[i] = sc.nextDouble();
             }
 
+            sc.close();
+
             gaussianElimination(n, superDiagonal, mainDiagonal, subDiagonal, constantVector);
             
             double[] solution = backSubstitution(n, superDiagonal, mainDiagonal, constantVector);
