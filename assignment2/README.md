@@ -13,5 +13,9 @@ Write a program that will compute interpolation polynomials for a given data set
     2. The **first line** contains *n*, the number of data points.
     3. The **second line** contains *n* double that are the x-coordinates *x1*, *x2*, *x3*, ..., *xn* of the data points separated by single spaces.
     4. The **third line** contains *n* double that are the y-coordinates *y1*, *y2*, *y3*, ..., *yn* of the data points.
+
+## Program Output
 - After reading the dataset, the program will repeatedly prompt the user to enter x, a double for an x-coordinate and output the value of the interpolating polynomial.
 - The program should terminate if the user enters an empty line.
+- A sample run of the program should have the following format:
+![image](https://user-images.githubusercontent.com/119079911/217860508-082e0002-afd7-47db-92dd-e87af527b06c.png)
