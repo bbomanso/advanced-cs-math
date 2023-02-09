@@ -15,4 +15,4 @@ Write a program to solve an *n* by *n* system using Gaussian elimination with sc
 
 #### backSubstitution method
 - The only parameter of the method will be an *n* by *n*+1 double array that is the reduced augmented matrix produced by the method described above.
-- The method will return the solution to the system, a double array of size *n* that is the solution of the system
+- The method will return the solution to the system, a double array of size *n* that is the solution of the system.
