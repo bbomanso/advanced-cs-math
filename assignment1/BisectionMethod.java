@@ -1,7 +1,3 @@
-package assignment1;
-
-import java.util.function.DoubleUnaryOperator;
-
 /**
  * Name: Beatriz Ristau
  * Date: February 1, 2022
@@ -9,6 +5,10 @@ import java.util.function.DoubleUnaryOperator;
  * Assignment: Bisection Method
  * Description: Program that finds the root of a function that is trappend in the interval [a,b] using the Bisection Method
 */
+
+package assignment1;
+
+import java.util.function.DoubleUnaryOperator;
 
 public class BisectionMethod {
     public static void main(String[] args) {
