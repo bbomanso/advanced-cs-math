@@ -44,8 +44,8 @@ public class BisectionMethod {
             else if(func.applyAsDouble(m) * func.applyAsDouble(a) < 0) {
                 b = m;
             }
-            // if the 2 points have same signs the replace a with m
-            else if(func.applyAsDouble(m) * func.applyAsDouble(a) > 0) {
+            // if the 2 points have same signs then replace a with m
+            else {
                 a = m;
             }
         }
