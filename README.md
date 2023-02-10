@@ -5,4 +5,4 @@
 **Course Taken:** Spring 2022  
 **Language:** Java   
 ## Using My Code
-These codes must not be used by any student taking this course at WVU Tech. If you found this repository, this should only be used as a guide for your future labs/Projects. If you decide to use part of my code for your own assignments/labs, please make sure that you cite my work by copying the link from this repository and attaching to your code. Failing to do so, you could face academic dishonesty which can lead in failure of the course.
+These codes must not be used by any student taking this course at WVU Tech. If you found this repository, this should only be used as a guide for your future assignment/labs. If you decide to use part of my code for your own assignments/labs, please make sure that you cite my work by copying the link from this repository and attaching to your code. Failing to do so, you could face academic dishonesty which can lead in failure of the course.
